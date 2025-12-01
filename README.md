@@ -8,7 +8,6 @@
 
    he/xe ૮• ᴥ •ა
   </div>
-  </p>
   <img width="25" height="20" alt="image" src="https://github.com/user-attachments/assets/61781fcb-666a-43d1-a381-4721426227ae"/> <img width="25" height="20" alt="image" src="https://github.com/user-attachments/assets/5a54b9a9-ab3c-42de-9190-f585061fafe7" /> infp ˏ 13yo
   
 </div>
