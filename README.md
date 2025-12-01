@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>pillbugz</h1>
   <p align="center">
     <img width="576" height="576" alt="image" src="https://github.com/user-attachments/assets/88d85047-9e83-4231-8c02-612f44421cf4" />
 
